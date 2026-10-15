@@ -12,6 +12,7 @@ description: 영어로 번역하기. 인간이 쓴 것과 같은 형식, 대쉬 
 - 정확한 단어 zero trust 원칙
 - 대쉬 최소화
 - 정확하고 매끄러운 미국식 영어
+- 번역한 결과만 copy and paste friendly 하게 제시할 것.
 
 [번역할 글]
 
